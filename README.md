@@ -2,7 +2,7 @@
 
 Statyczna strona fikcyjnego Przedszkola Publicznego BeeKid (Warszawa, Bemowo), wykonana jako projekt koncepcyjny przed docelową realizacją w WordPressie.
 
-**Podgląd:** https://TWOJ-LOGIN.github.io/NAZWA-REPOZYTORIUM/
+**Podgląd:** https://DamianHoffman.github.io/BeeKid/
 
 ## Co pokazuje projekt
 
